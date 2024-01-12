@@ -106,7 +106,7 @@ function page() {
             data-aos="fade-left"
             class="flex col-auto justify-center gap-x-2 gap-y-3"
           >
-            <p className="md:w-[50%] w-[80%]">
+            <p className="md:w-[50%] text-black w-[80%]">
               The cryptocurrency named π, represented by the Greek letter π, is
               minted in homage to the mathematical constant pi. With a total
               supply of 3,141,592,653,589,793 coins, mirroring the value of pi,
