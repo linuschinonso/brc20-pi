@@ -90,7 +90,7 @@ function page() {
       <img src="/" />
 
       <div className="">
-        <main className="bg-[#ffffffdc] flex-1 w-full">
+        <main className="text-dark flex-1 w-full">
           <div className="flex items-center justify-center mt-5">
             <div class="flex col-auto justify-center gap-x-2 gap-y-3">
               <img
