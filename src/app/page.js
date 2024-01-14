@@ -158,7 +158,7 @@ function page() {
               <div class="flex col-auto justify-center gap-x-2 gap-y-3 mb-5">
                 <div className="p-5 text-center">
                   <p data-aos="fade-left" className="md:w-[50%] w-[80%]">
-                    Info about our π : <br /> Logo letter: pi(π) Block
+                    Info about our π : <br /> Logo letter: pi(π) <br /> Block
                     chain：Bitcoin  <br /> Total supply: 3,141,592,653,589,793 Mint
                     times: 21,000
                   </p>
