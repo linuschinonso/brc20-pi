@@ -123,7 +123,7 @@ function page() {
           </div>
           <div className="flex justify-center items-center">
             <div className="flex-col justify-center items-center">
-              <h2 class="text-3xl font-bold mt-10 mb-8 flex justify-center">
+              <h2 class="text-3xl text-center font-bold mt-10 mb-8 flex justify-center">
                 Exchanges Where You Can Get Pi
               </h2>
               <div class="flex justify-center gap-x-2 gap-y-3 mb-10">
